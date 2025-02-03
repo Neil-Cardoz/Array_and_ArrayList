@@ -10,6 +10,11 @@ import java.util.*;
 
 class Main{
     public static void main(String[] args) {
+        UserInput input = new UserInput();
+        ArrayFunctions functions = new ArrayFunctions();
+
+        // Get user input once and store it
+        int[] userArray = input.arrayInput();
 
     }
 }
