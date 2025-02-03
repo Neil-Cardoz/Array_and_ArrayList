@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ArrayFunctionsProject.git
+   git clone https://github.com/Neil-Cardoz/Array_and_ArrayList
    cd ArrayFunctionsProject
 
 ## Usage
