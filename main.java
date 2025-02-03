@@ -16,5 +16,11 @@ class Main{
         // Get user input once and store it
         int[] userArray = input.arrayInput();
 
+        // 1. Separate odd and even numbers
+        functions.oddEven(userArray);
+
+        // 2. Find smallest neighboring difference
+        functions.smallestVal(userArray);
+
     }
 }
